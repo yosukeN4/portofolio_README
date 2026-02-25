@@ -1,13 +1,13 @@
 # portofolio_README
 explain_my_portfoliomap
 
-# Portfoli#1_basical_serverless_app
+# #1_basical_serverless_app
 Description:
 
-RepositoryUrl
+RepositoryUrl:
+https://github.com/yosukeN4/lwd-flask-pj
 
-
-# Architecture
+## Architecture
 
 ## Keyword
 * `serverless App`
@@ -20,3 +20,6 @@ RepositoryUrl
 * lambda
 * dynamodb
 * sam
+
+## FrameWork and Limbaries
+flask, uv, ruff, pytest
